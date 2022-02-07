@@ -9,7 +9,11 @@
     margin: 0px;
 }
 
-#square {
+.square {
     padding: 8px;
     background-color: blue;
+}
+
+.hovering {
+    background-color: red;
 }
